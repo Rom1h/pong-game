@@ -1,0 +1,170 @@
+#slider .track{
+   -fx-pref-height:20;
+   -fx-background-color:white;
+}
+
+#terrain {
+  -fx-background-image: url("imgfond.jpg");
+  -fx-background-color: #842e1b;
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: 50% 50%;
+  -fx-background-size: 100%;
+}
+#terrainBM{
+	-fx-background-image: url("imgfondBM.jpg");
+  -fx-background-color: #842e1b;
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: 50% 50%;
+  -fx-background-size: 100%;
+   -fx-text-fill: black;
+}
+#tennisbg{
+-fx-background-image: url("imgfondmenu.jpg");
+  -fx-background-color: #842e1b;
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: 50% 50%;
+  -fx-background-size: 100%;
+}
+
+#spacebg {
+  -fx-background-image: url("spacebackgroundmenu.png");
+  -fx-background-color: #842e1b;
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: 50% 50%;
+  -fx-background-size: 100%;
+}
+#spaceMB {
+  -fx-background-image: url("spacebackgroundBM.png");
+  -fx-background-color: #c0d4cd;
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: 50% 50%;
+  -fx-background-size: 100%;
+ 
+}
+
+#ledbg {
+  -fx-background-image: url("ledbackgroundmenu.jpg");
+  -fx-background-color: #842e1b;
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: 50% 50%;
+  -fx-background-size: 100%;
+}
+#ledBM {
+  -fx-background-image: url("ledbackgroundBM.jpg");
+  -fx-background-color: #842e1b;
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: 50% 50%;
+  -fx-background-size: 100%;
+  
+}
+
+#ledbggame {
+  -fx-background-image: url("ledbackground.jpg");
+  -fx-background-color: #842e1b;
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: 50% 50%;
+  -fx-background-size: 100%;
+}
+
+#mode {
+  -fx-background-image: url("imgmode.png");
+  -fx-background-color: #c0d4cd;
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: 50% 50%;
+  -fx-background-size: 100%;
+}
+
+#spacemode {
+  -fx-background-image: url("spacemode.png");
+  -fx-background-color: #c0d4cd;
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: 50% 50%;
+  -fx-background-size: 100%;
+}
+
+#ledmode {
+  -fx-background-image: url("ledmode.png");
+  -fx-background-color: #c0d4cd;
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: 50% 50%;
+  -fx-background-size: 100%;
+}
+
+#choix {
+  -fx-font-weight: bold;
+}
+
+#pause {
+  -fx-background-image: url("fondpoz.png");
+  -fx-background-color: #c0d4cd;
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: 50% 50%;
+  -fx-background-size: 100%;
+}
+
+#spacepause {
+  -fx-background-image: url("spacepause.png");
+  -fx-background-color: #c0d4cd;
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: 50% 50%;
+  -fx-background-size: 100%;
+}
+
+#ledpause {
+  -fx-background-image: url("ledpause.png");
+  -fx-background-color: #c0d4cd;
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: 50% 50%;
+  -fx-background-size: 100%;
+}
+
+#boutonMute1{
+  -fx-background-image: url("mute.png");
+  -fx-background-color: transparent;
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: 50% 50%;
+  -fx-background-size: 100%;
+  -fx-font-size: 30px;
+}
+
+#boutonMute2{
+  -fx-background-image: url("pasmute.png");
+  -fx-background-color: transparent;
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: 50% 50%;
+  -fx-background-size: 100%;
+  -fx-font-size: 30px;
+}
+
+#menu {
+  -fx-background-image: url("imgfondmenu.jpg");
+  -fx-background-color: #842e1b;
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: 50% 50%;
+  -fx-background-size: 100%;
+}
+
+#regles {
+  -fx-background-image: url("imgmode.png");
+  -fx-background-repeat: NO-REPEAT;
+  -fx-background-position: 50% 50%;
+  -fx-background-size: 100%;
+}
+
+
+
+
+#spacemnemonic .mnemonic-underline{
+  -fx-stroke: -fx-text-base-color;
+  -fx-text-base-color:white;
+}
+
+#tennismnemonic .mnemonic-underline{
+  -fx-stroke: -fx-text-base-color;
+  -fx-text-base-color:black;
+}
+
+#neonmnemonic .mnemonic-underline{
+  -fx-stroke: -fx-text-base-color;
+  -fx-text-base-color:pink;
+}

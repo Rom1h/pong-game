@@ -1,0 +1,49 @@
+Liste des objectifs:
+
+
+
+ERGONOMIE
+1.Menu: permet de choisir entre différent mode de jeu
+
+2.Changement atribution touche du j1 (CTRL/ALT -> ???/???)   //FAIT//
+
+3.Mode pleine écran
+
+4.Représenter les fin de partie et demande de relancer de jeu
+
+12. Demander le choix d'une couleur en début de partie, différente pour chaque joueur. Cette couleur sera celle de leur raquette, permettant leur identification.
+
+14. Contrôler le jeu à l'aide du clavier seulement
+
+15. Créer une page d'instructions/règles du jeu 
+
+
+
+GAMEPLAY
+5.Boost sur la carte: si l'on touche avec balle: gagne le boost
+
+6.Le jeu s'accélère en fonction de l'évolution de la partie
+
+
+7.Mode de jeu
+	1. 1v1
+	2. 1VBot
+	3. Partie personnalisée
+	    Possibilité de choisir différents paramètres (condition(s) de victoire, présence de boost,chrono)
+	
+8.Musique de jeu
+	1. Musique de fond
+	2. Bruitage (son quand la balle touche une raquette)
+	3. Mettre pause à la musique quand le jeu est en pause
+	
+	
+9.Stopper une partie
+    1. Mettre fin à une partie une fois que le score ou que le chrono est atteint (score à définir en fonction de la partie choisie, chrono idem)
+    2. Afficher les scores et le gagnant
+    3. Possibilité de rejouer ou de quitter la partie
+
+
+10.Thèmes
+    1.Permettre au joueur de choisir entre plusieurs thèmes
+    2.Ajuster les couleurs des boutons et des textes en fonction de l'image de fond
+    3.Mettre des balles "thématiques"
